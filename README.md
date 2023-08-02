@@ -64,7 +64,7 @@ IAAS.
 Collocation или реальная IT-инфраструктура предприятия.
 
 Решение 4
-1.https://github.com/znak72/netology/blob/e297e65c9dbb8bb93c2c01ea10169c94404a02ed/yandex1.png
+![first] (https://github.com/znak72/netology/blob/e297e65c9dbb8bb93c2c01ea10169c94404a02ed/yandex1.png)
 
 2. Процессор, количество ядер, оперативная память, дисковые накопители
 3. На Cloud.Market в разделе инструменты для разработчика можно выбрать систему мониторинга Zabbix
